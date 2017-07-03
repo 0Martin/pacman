@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/Level.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Gem.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/PowerUp.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Enemy.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Shader.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Object.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Map.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Scene.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Mesh.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Gem.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Object.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Player.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Shader.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/PowerUp.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Enemy.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Scene.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Level.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Mesh.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Player.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Map.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/soil-master/src/stb_image_aug.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/soil-master/src/image_DXT.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/soil-master/src/image_helper.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/soil-master/src/SOIL.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/soil-master/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/glfw-3.2.1/src/wgl_context.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/glfw-3.2.1/src/win32_tls.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/glfw-3.2.1/src/egl_context.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/glfw-3.2.1/src/glfw3.pc.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/glfw-3.2.1/src/glfw3Config.cmake.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/glfw-3.2.1/src/monitor.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/glfw-3.2.1/src/internal.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/glfw-3.2.1/src/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/glfw-3.2.1/src/init.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/glfw-3.2.1/src/context.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/glfw-3.2.1/src/window.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/glfw-3.2.1/src/win32_window.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/glfw-3.2.1/src/win32_time.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/glfw-3.2.1/src/win32_monitor.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/glfw-3.2.1/src/win32_joystick.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/glfw-3.2.1/src/input.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/glfw-3.2.1/src/win32_init.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/glfw-3.2.1/src/egl_context.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/glfw-3.2.1/src/vulkan.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/glfw-3.2.1/src/win32_joystick.c" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/glfw-3.2.1/src/win32_platform.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/glfw-3.2.1/src/glfw_config.h.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/glfw-3.2.1/src/wgl_context.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/glfw-3.2.1/cmake_uninstall.cmake.in" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/glfw-3.2.1/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/glfw-3.2.1/include/GLFW/glfw3native.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/glfw-3.2.1/include/GLFW/glfw3.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dependecies/glfw-3.2.1/CMake/modules/FindVulkan.cmake" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file://C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/5.1.0/include" />
+          <root url="file://C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/5.1.0/include-fixed" />
+          <root url="file://C:/TDM-GCC-64/x86_64-w64-mingw32/include" />
+          <root url="file://C:/TDM-GCC-64/include" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/pac_man-6f53b862/6f53b862/MinSizeRel/dependecies/glfw-3.2.1/src" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/pac_man-6f53b862/6f53b862/Debug/dependecies/glfw-3.2.1/src" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/pac_man-6f53b862/6f53b862/Release/dependecies/glfw-3.2.1/src" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/pac_man-6f53b862/6f53b862/RelWithDebInfo/dependecies/glfw-3.2.1/src" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/5.1.0/include" />
+          <root url="file://C:/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/5.1.0/include-fixed" />
+          <root url="file://C:/TDM-GCC-64/x86_64-w64-mingw32/include" />
+          <root url="file://C:/TDM-GCC-64/include" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/pac_man-6f53b862/6f53b862/MinSizeRel/dependecies/glfw-3.2.1/src" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/pac_man-6f53b862/6f53b862/Debug/dependecies/glfw-3.2.1/src" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/pac_man-6f53b862/6f53b862/Release/dependecies/glfw-3.2.1/src" />
+          <root url="file://$USER_HOME$/.CLion2016.2/system/cmake/generated/pac_man-6f53b862/6f53b862/RelWithDebInfo/dependecies/glfw-3.2.1/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
