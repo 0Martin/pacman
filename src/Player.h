@@ -4,9 +4,9 @@
 #include <GL/glew.h>
 #include <GLFW/glfw3.h>
 #include <SOIL/SOIL.h>
-#include <glm.hpp>
-#include <gtc/matrix_transform.hpp>
-#include <gtc/type_ptr.hpp>
+#include <glm/glm.hpp>
+#include <glm/gtc/matrix_transform.hpp>
+#include <glm/gtc/type_ptr.hpp>
 #include <vector>
 #include <map>
 #include "Level.h"
@@ -44,7 +44,7 @@ private:
     glm::mat4 model;
     const int KEY_FRAMES_COUNT = 3;
     std::vector<Mesh> keyFrames;
-    std::vector<std::vector<Bod>> kf;
+    std::vector<std::vector<Bod> > kf;
 
     const glm::vec2 STARTING_POSITION = glm::vec2(9.0, 12.0);
     const glm::vec2 STARTING_ORIENTATION = glm::vec2(0.0, 0.0);

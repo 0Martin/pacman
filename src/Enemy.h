@@ -4,9 +4,9 @@
 #include <GL/glew.h>
 #include <GLFW/glfw3.h>
 #include <SOIL/SOIL.h>
-#include <glm.hpp>
-#include <gtc/matrix_transform.hpp>
-#include <gtc/type_ptr.hpp>
+#include <glm/glm.hpp>
+#include <glm/gtc/matrix_transform.hpp>
+#include <glm/gtc/type_ptr.hpp>
 #include <vector>
 #include <map>
 #include <time.h>
@@ -49,7 +49,7 @@ private:
     glm::mat4 model;
     std::vector<Bod> out_body;
 
-    const glm::vec2 STARTING_ORIENTATION = glm::vec2(0.0, 0.0);
+    glm::vec2 STARTING_ORIENTATION = glm::vec2(0.0, 0.0);
     float respawnTime = 5.0;
     float timeToRespawn;
     glm::vec2 startinPosition;

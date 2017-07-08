@@ -6,10 +6,10 @@ Shader::Shader(const std::string vertexShaderPath, const std::string fragmentSha
     std::ifstream vertexFile;
     std::ifstream fragFile;
 
-    vertexFile.open(vertexShaderPath);
+    vertexFile.open(vertexShaderPath.c_str());
     if (!vertexFile.is_open())
         std::cout << "Failed to open vertex shader" << std::endl;
-    fragFile.open(fragmentShaderPath);
+    fragFile.open(fragmentShaderPath.c_str());
     if (!fragFile.is_open())
         std::cout << "Failed to open fragment shader" << std::endl;
 
