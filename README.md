@@ -1,3 +1,3 @@
-# pacman
+# Pacman
 
 ![alt text](https://raw.githubusercontent.com/0Martin/pacman/master/screenshot.png)
